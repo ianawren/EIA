@@ -1,0 +1,8 @@
+name: eia-environment
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - os
+  - plotly
+  - warnings
